@@ -1,5 +1,5 @@
 //
-//  CCTableViewTestViewController.h
+//  CCTableViewController.h
 //  Table View Test
 //
 //  Created by Vijay Ayyar on 8/14/14.
@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface CCTableViewTestViewController : UIViewController
+@interface CCTableViewController : UITableViewController
+
 
 @end
